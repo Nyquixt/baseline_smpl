@@ -1,4 +1,6 @@
 data/
+body_models/
+videos/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
